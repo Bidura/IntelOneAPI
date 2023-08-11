@@ -14,4 +14,4 @@
 ### ✅Evaluate the model
 ### ✅Accuracy Score for decision tree - 90.87%
 ### ✅Accuracy Score for logistic regression - 90.54%
-# What I learned ![image](https://github.com/Bidura/IntelOneAPI/blob/main/correlation.jpg)https://github.com/Bidura/IntelOneAPI/blob/main/correlation.jpg)
+# What I learned ![image](https://github.com/Bidura/IntelOneAPI/blob/main/correlation.jpg)
